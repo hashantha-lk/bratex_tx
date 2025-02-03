@@ -101,7 +101,7 @@ document.querySelector('#app').innerHTML = `
       </div>
     </div>
   </div>
-  <footer>2025 Thullex GmbH</footer>
+    <footer>2025 Thullex GmbH</footer>
 `
 
 // Make functions available globally
