@@ -58,7 +58,7 @@ document.querySelector('#app').innerHTML = `
   <div class="container">
     <header class="header">
       <div class="header-content">
-        <h1 class="logo-text">BRATEX</h1>
+        <h1 class="logo-text">Bratex</h1>
         <label class="theme-switch">
           <input type="checkbox" onchange="window.toggleTheme()">
           <span class="slider round"></span>
@@ -101,7 +101,7 @@ document.querySelector('#app').innerHTML = `
       </div>
     </div>
   </div>
-    <footer>2025 Thullex GmbH</footer>
+    <footer class='footer'>2025 &copy Thullex&reg GmbH</footer>
 `
 
 // Make functions available globally
